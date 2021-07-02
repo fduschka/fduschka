@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fduschka
 - 👀 I’m interested in: Programming
-- 🌱 I’m currently learning: C#
+- 🌱 I’m currently learning: SwiftUi
 - 📫 How to reach me: ferdi@duschka.com
 
 <!---
