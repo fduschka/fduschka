@@ -1,1 +1,5 @@
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" height="auto" width="200" style="border-radius:50%" />
+> 👶 16 Years Old
+
+> 🇩🇪 German
+
+> 👨‍💻 Dev @ http://onewordstory.fun 
