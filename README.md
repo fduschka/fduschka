@@ -2,4 +2,4 @@
 
 > 🇩🇪 German
 
-> 👨‍💻 Dev @ http://onewordstory.fun 
+> 👨‍💻 Dev @ https://onewordstory.fun 
